@@ -1,0 +1,6 @@
+def cube(f,n):
+    print(f(n))
+
+c = lambda x:x**3
+
+cube(c,4)
