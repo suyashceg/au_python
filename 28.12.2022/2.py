@@ -5,5 +5,5 @@ def encryptmsg(msg):
         str2 = str2+i
     return str2
 
-print(encryptmsg('abcdef'))
+print(encryptmsg('aman'))
 
