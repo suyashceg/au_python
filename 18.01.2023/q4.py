@@ -1,0 +1,7 @@
+file1 = open('abc.txt','r')
+file2 = open('def.txt',mode='w')
+content = file1.read()
+content = content.replace('.',',')
+file2.write(content)
+file1.close()
+file2.close()

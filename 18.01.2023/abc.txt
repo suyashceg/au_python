@@ -1,0 +1,3 @@
+this is a file with multiple print words.
+another line but it will not have that 5 word.
+this line has print and print 6 again.
